@@ -21,37 +21,37 @@
   { "user_id": "12525456", "prize": "150000" },
     { "user_id": "6463154", "prize": "100000" },
     { "user_id": "719586", "prize": "50000" }
+
   ],
    "2025-06-27": [
-    { "user_id": "", "prize": "" },
-    { "user_id": "", "prize": "" },
-    { "user_id": "", "prize": "" }
+ { "user_id": "8372809", "prize": "150000" },
+    { "user_id": "12883003", "prize": "100000" },
+    { "user_id": "12729041", "prize": "50000" }
      
   ],
-   "2025-06-28": [
-     { "user_id": "", "prize": "" },
-    { "user_id": "", "prize": "" },
-    { "user_id": "", "prize": "" }
-  ],
    "2025-05-28": [
-    { "user_id": "", "prize": "" },
-    { "user_id": "", "prize": "" },
-    { "user_id": "", "prize": "" } 
+ { "user_id": "5644200", "prize": "150000" },
+    { "user_id": "12716765", "prize": "100000" },
+    { "user_id": "12502954", "prize": "50000" }
+
   ],
    "2025-06-29": [
      { "user_id": "", "prize": "" },
     { "user_id": "", "prize": "" },
     { "user_id": "", "prize": "" } 
+
   ],
    "2025-06-30": [
      { "user_id": "", "prize": "" },
     { "user_id": "", "prize": "" },
     { "user_id": "", "prize": "" } 
+
   ],
    "2025-07-1": [
     { "user_id": "", "prize": "" },
     { "user_id": "", "prize": "" },
     { "user_id": "", "prize": "" }   
+
   ],
    "2025-07-2": [
     { "user_id": "", "prize": "" },
