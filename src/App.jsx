@@ -64,7 +64,6 @@ function App() {
           </table>
       <div className="video-section">
       <h3>Behind the Scene of the Raffle Draw</h3>
-      <iframe src={videoUrl} allowFullScreen></iframe>
     </div>
         </div>
       </div>
@@ -74,7 +73,7 @@ function App() {
   return (
     <div>
       <header className="header">
-        <img src="Bk_spi₦_lobby_asset.png" alt="BetKing SpiN Logo" className="logo" />
+        <img src="Multipliers.png" alt="Danfo Lagos Multiplier" className="logo" />
       </header>
       <main id="raffleContainer">{accordionItems}</main>
     </div>
