@@ -63,8 +63,6 @@ function App() {
             </tbody>
           </table>
       <div className="video-section">
-      <h3>Behind the Scene of the Raffle Draw</h3>
-      <iframe src={videoUrl} allowFullScreen></iframe>
     </div>
         </div>
       </div>
