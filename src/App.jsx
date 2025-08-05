@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
-const startDate = new Date("2025-08-01");
-const endDate = new Date("2025-08-15");
+const startDate = new Date("2025-06-23");
+const endDate = new Date("2025-07-02");
 
 function App() {
   const [winnersData, setWinnersData] = useState({});
@@ -45,7 +45,7 @@ function App() {
           {getDateLabel(d)}
         </div>
         <div className="accordion-content" id={dateId}>
-          <h3>Campaign Winners</h3>
+          <h3>Raffle Winners</h3>
           <table>
             <thead>
               <tr>
@@ -63,6 +63,8 @@ function App() {
             </tbody>
           </table>
       <div className="video-section">
+      <h3>Behind the Scene of the Raffle Draw</h3>
+      <iframe src={videoUrl} allowFullScreen></iframe>
     </div>
         </div>
       </div>
@@ -72,11 +74,8 @@ function App() {
   return (
     <div>
       <header className="header">
-        <img src="Multipliers.png" alt="Danfo Lagos Multiplier" className="logo" />
+        <img src="Bk_spi₦_lobby_asset.png" alt="BetKing SpiN Logo" className="logo" />
       </header>
       <main id="raffleContainer">{accordionItems}</main>
     </div>
   );
-}
-
-export default App;
