@@ -79,3 +79,6 @@ function App() {
       <main id="raffleContainer">{accordionItems}</main>
     </div>
   );
+}
+
+export default App;
