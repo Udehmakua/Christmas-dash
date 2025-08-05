@@ -74,7 +74,7 @@ function App() {
   return (
     <div>
       <header className="header">
-        <img src="Bk_spi₦_lobby_asset.png" alt="BetKing SpiN Logo" className="logo" />
+        <img src="Multipliers.png" alt="Danfo Lagos Multiplier" className="logo" />
       </header>
       <main id="raffleContainer">{accordionItems}</main>
     </div>
