@@ -63,7 +63,6 @@ function App() {
             </tbody>
           </table>
       <div className="video-section">
-      <h3>Campaign Winners</h3>
     </div>
         </div>
       </div>
