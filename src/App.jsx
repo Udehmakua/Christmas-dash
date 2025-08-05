@@ -45,7 +45,7 @@ function App() {
           {getDateLabel(d)}
         </div>
         <div className="accordion-content" id={dateId}>
-          <h3>Raffle Winners</h3>
+          <h3>Campaign Winners</h3>
           <table>
             <thead>
               <tr>
