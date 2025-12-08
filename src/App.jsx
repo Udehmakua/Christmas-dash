@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
-const startDate = new Date("2025-08-20");
-const endDate = new Date("2025-08-31");
+const startDate = new Date("2025-06-23");
+const endDate = new Date("2025-07-02");
 
 function App() {
   const [winnersData, setWinnersData] = useState({});
