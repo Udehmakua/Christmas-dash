@@ -24,7 +24,7 @@ function App() {
     const content = document.getElementById(id);
     const isVisible = content.style.display === 'block';
     document.querySelectorAll('.accordion-content').forEach(el => el.style.display = 'none');
-    content.style.display = isVisible ? 'none' : 'block';
+    content.style.display = isVisible ? 'none': 'block';
   };
 
   const getDateLabel = (d) => d.toLocaleDateString("en-US", {
@@ -72,7 +72,7 @@ function App() {
   return (
     <div>
       <header className="header">
-        <img src="Multipliers.png" alt="Danfo Lagos Multiplier" className="logo" />
+        <img src="undraw_winners_fre4 1.svg" alt="winners" className="logo" />
       </header>
       <main id="raffleContainer">{accordionItems}</main>
     </div>
