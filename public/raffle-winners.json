@@ -1,17 +1,27 @@
 {
   "2025-12-22": [
-    { "user_id": "", "prize": "100000" },
-    { "user_id": "", "prize": "750000" },
-    { "user_id": "", "prize": "50000" },
-    { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "12772985", "prize": "100000" },
+    { "user_id": "13222328", "prize": "750000" },
+    { "user_id": "8441014", "prize": "50000" },
+    { "user_id": "10674990", "prize": "40000" },
+    { "user_id": "2656739", "prize": "35000" },
+    { "user_id": "2232370", "prize": "20000" },
+    { "user_id": "10962586", "prize": "20000" },
+    { "user_id": "8976386", "prize": "20000" },
+    { "user_id": "13342726", "prize": "20000" },
+    { "user_id": "11621535", "prize": "20000" }
   ],
   "2025-12-23": [
-    { "user_id": "", "prize": "100000" },
-    { "user_id": "", "prize": "750000" },
-    { "user_id": "", "prize": "50000" },
-    { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "13671661", "prize": "100000" },
+    { "user_id": "12772985", "prize": "750000" },
+    { "user_id": "11989834", "prize": "50000" },
+    { "user_id": "13172147", "prize": "40000" },
+    { "user_id": "4429187", "prize": "35000" },
+    { "user_id": "8746542", "prize": "20000" },
+    { "user_id": "9521283", "prize": "20000" },
+    { "user_id": "7141088", "prize": "20000" },
+    { "user_id": "10878339", "prize": "20000" },
+    { "user_id": "11621535", "prize": "20000" }
     
   ],
   "2025-12-24": [
@@ -19,7 +29,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
   ],
    "2025-12-25": [
@@ -27,7 +42,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" } 
 
   ],
    "2025-12-26": [
@@ -35,7 +55,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
      
   ],
    "2025-12-27": [
@@ -43,7 +68,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
   ],
    "2025-12-28": [
@@ -51,7 +81,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
   ],
    "2025-12-29": [
@@ -59,7 +94,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
   ],
    "2025-12-30": [
@@ -67,7 +107,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
   ],
    "2025-12-31": [
@@ -75,7 +120,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
 ],
    "2026-01-01": [
@@ -83,7 +133,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }  
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
 ],
    "2026-01-02": [
@@ -91,7 +146,12 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 
 ],
    "2026-01-03": [
@@ -99,13 +159,23 @@
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" } 
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
 ],
    "2026-01-04": [
     { "user_id": "", "prize": "100000" },
     { "user_id": "", "prize": "750000" },
     { "user_id": "", "prize": "50000" },
     { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" }
+    { "user_id": "", "prize": "35000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" },
+    { "user_id": "", "prize": "20000" }
   ]
 }
