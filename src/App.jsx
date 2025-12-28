@@ -50,7 +50,7 @@ function App() {
             <thead>
               <tr>
                 <th>User ID</th>
-                <th>Multiplier (₦)</th>
+                <th>Multiplier</th>
                 <th>Cash Prize (₦)</th>
               </tr>
             </thead>
