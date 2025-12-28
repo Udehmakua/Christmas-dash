@@ -50,6 +50,7 @@ function App() {
             <thead>
               <tr>
                 <th>User ID</th>
+                <th>Multiplier (₦)</th>
                 <th>Cash Prize (₦)</th>
               </tr>
             </thead>
@@ -57,6 +58,7 @@ function App() {
               {winners.map((w, i) => (
                 <tr key={i}>
                   <td>{w.user_id}</td>
+                  <td>{w.multiplier}</td>
                   <td>{w.prize}</td>
                 </tr>
               ))}
