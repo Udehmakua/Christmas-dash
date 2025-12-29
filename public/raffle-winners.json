@@ -78,18 +78,18 @@
   ],
   
    "2025-12-28": [
-    { "user_id": "", "prize": "100000" },
-    { "user_id": "", "prize": "750000" },
-    { "user_id": "", "prize": "50000" },
-    { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" }
-
-  ],
+  { "user_id": "2267173", "multiplier": 314.54, "prize": "100000" },
+  { "user_id": "6164348", "multiplier": 79.51, "prize": "75000" },
+  { "user_id": "9647947", "multiplier": 65.22, "prize": "50000" },
+  { "user_id": "11989834", "multiplier": 59.07, "prize": "40000" },
+  { "user_id": "8452685", "multiplier": 48.17, "prize": "35000" },
+  { "user_id": "12975190", "multiplier": 47.06, "prize": "20000" },
+  { "user_id": "13591821", "multiplier": 40.68, "prize": "20000" },
+  { "user_id": "8898187", "multiplier": 34.35, "prize": "20000" },
+  { "user_id": "12687821", "multiplier": 33.57, "prize": "20000" },
+  { "user_id": "10020660", "multiplier": 33.37, "prize": "20000" }
+ ],
+  
    "2025-12-29": [
     { "user_id": "", "prize": "100000" },
     { "user_id": "", "prize": "750000" },
