@@ -91,31 +91,31 @@
  ],
   
    "2025-12-29": [
-    { "user_id": "", "prize": "100000" },
-    { "user_id": "", "prize": "750000" },
-    { "user_id": "", "prize": "50000" },
-    { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" }
-
-  ],
+  { "user_id": "2267173", "multiplier": 103.95, "prize": "100000" },
+  { "user_id": "10674990", "multiplier": 62.99, "prize": "75000" },
+  { "user_id": "11989834", "multiplier": 62.62, "prize": "50000" },
+  { "user_id": "12975190", "multiplier": 52.38, "prize": "40000" },
+  { "user_id": "12687821", "multiplier": 49.6, "prize": "35000" },
+  { "user_id": "12070974", "multiplier": 41.64, "prize": "20000" },
+  { "user_id": "8898187", "multiplier": 39.51, "prize": "20000" },
+  { "user_id": "13247208", "multiplier": 25.52, "prize": "20000" },
+  { "user_id": "11671747", "multiplier": 21.81, "prize": "20000" },
+  { "user_id": "12956901", "multiplier": 21.43, "prize": "20000" }
+],
+  
    "2025-12-30": [
-    { "user_id": "", "prize": "100000" },
-    { "user_id": "", "prize": "750000" },
-    { "user_id": "", "prize": "50000" },
-    { "user_id": "", "prize": "40000" },
-    { "user_id": "", "prize": "35000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" },
-    { "user_id": "", "prize": "20000" }
-
-  ],
+  { "user_id": "12690276", "multiplier": 84.29, "prize": "100000" },
+  { "user_id": "10674990", "multiplier": 81.41, "prize": "75000" },
+  { "user_id": "11989834", "multiplier": 63.35, "prize": "50000" },
+  { "user_id": "12975190", "multiplier": 62.61, "prize": "40000" },
+  { "user_id": "13247208", "multiplier": 53.49, "prize": "35000" },
+  { "user_id": "11204896", "multiplier": 39.74, "prize": "20000" },
+  { "user_id": "4097411", "multiplier": 38.15, "prize": "20000" },
+  { "user_id": "8037710", "multiplier": 32.04, "prize": "20000" },
+  { "user_id": "12687821", "multiplier": 30.57, "prize": "20000" },
+  { "user_id": "8898187", "multiplier": 30.57, "prize": "20000" }
+ ],
+  
    "2025-12-31": [
     { "user_id": "", "prize": "100000" },
     { "user_id": "", "prize": "750000" },
